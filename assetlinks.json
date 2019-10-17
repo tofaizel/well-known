@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ocelli",
+    "sha256_cert_fingerprints":
+    ["F8:6B:0A:BB:25:25:63:A3:DB:BD:B8:13:5B:5B:2E:A5:F9:FB:7D:C1:18:93:CC:FF:AC:40:1F:03:30:3F:3D:74"]
+  }
+}
